@@ -1,0 +1,10 @@
+{
+  "description": "Explore a trading card game mockup designed to showcase cards, gameplay concepts, and visual styles for players and creators.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
